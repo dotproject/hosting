@@ -1,4 +1,4 @@
-/* Hosting module -> $Id: $ */
+/* Hosting module -> $Id: README,v 1.1 2007/04/16 05:36:02 mbelos Exp $ */
 
 ABOUT
 
@@ -16,15 +16,8 @@ CREATOR
 
 COPYRIGHT
 
-    (C) 2003-2004 The Linux Box Corp.
-    206 S. Fifth Avenue Suite 150
-    Ann Arbor, MI 48104
-    http://www.linuxbox.com
-
-    Based on the original HelpDesk module by Andrew Eddie,
-    Copyright (C) 2003 The dotProject Development Team
-    http://sourceforge.net/projects/dotproject/
-
+    (C) 2007 Funke Web Solutions Pty Ltd
+    http://www.funke.com.au
 
 LICENSE
 
